@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="37"
+   id="svg3182"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="card.svg"
+   inkscape:export-filename="/home/vg/Project/boa/tarjeta/sauce/assets/card.png"
+   inkscape:export-xdpi="90.055107"
+   inkscape:export-ydpi="90.055107">
+  <defs
+     id="defs3184" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="16.821691"
+     inkscape:cy="3.0193355"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3187">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.51522893,-3.6842542)">
+    <rect
+       style="fill:#ffffff;stroke:#1a1a1a;stroke-width:1.99999988000000006;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3190"
+       width="30"
+       height="35"
+       x="1.5152289"
+       y="4.6842542"
+       rx="5.2527933"
+       ry="5.2527928" />
+    <rect
+       ry="0"
+       rx="0"
+       y="4.6842542"
+       x="20.01523"
+       height="35"
+       width="5.0000005"
+       id="rect4222"
+       style="fill:#1a1a1a;stroke:#1a1a1a;stroke-width:1.99999988;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.99502349px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+       x="-36.439507"
+       y="7.1092014"
+       id="text4224"
+       transform="matrix(0,-1.0072204,0.99283141,0,0,0)"><tspan
+         sodipodi:role="line"
+         x="-36.439507"
+         y="7.1092014"
+         style="text-align:start;text-anchor:start"
+         id="tspan4228">all your base</tspan><tspan
+         sodipodi:role="line"
+         x="-36.439507"
+         y="10.852981"
+         style="text-align:start;text-anchor:start"
+         id="tspan4232">are belong to us</tspan><tspan
+         sodipodi:role="line"
+         x="-36.439507"
+         y="14.59676"
+         style="text-align:start;text-anchor:start"
+         id="tspan4234">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="-36.439507"
+         y="18.34054"
+         style="text-align:start;text-anchor:start"
+         id="tspan4236">&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</tspan></text>
+  </g>
+</svg>
