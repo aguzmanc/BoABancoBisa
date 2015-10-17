@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150.4375"
+   height="18"
+   id="svg5756"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="pais-selection.svg"
+   inkscape:export-filename="/home/vg/Project/boa/tarjeta/sauce/assets/aux/pais-selection.png"
+   inkscape:export-xdpi="90.055107"
+   inkscape:export-ydpi="90.055107">
+  <defs
+     id="defs5758" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="71.46419"
+     inkscape:cy="-2.2853328"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5761">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="highlight">
+    <rect
+       y="0.99612403"
+       x="0.98904419"
+       height="15.999999"
+       width="148.45943"
+       id="rect5737-9"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.40034198999999937px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+       x="20.438202"
+       y="12.585419"
+       id="text5739-2"><tspan
+         sodipodi:role="line"
+         id="tspan5741-1"
+         x="20.438202"
+         y="12.585419">país</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-144.78125,-311.9375)"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <rect
+       y="312.93362"
+       x="145.77029"
+       height="15.999999"
+       width="148.45943"
+       id="rect5737"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:12.40034199px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace Bold"
+       x="165.21945"
+       y="324.52292"
+       id="text5739"><tspan
+         sodipodi:role="line"
+         id="tspan5741"
+         x="165.21945"
+         y="324.52292">país</tspan></text>
+  </g>
+</svg>
